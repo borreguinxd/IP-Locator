@@ -1,8 +1,21 @@
-# IP-Locator was made by Z hacker
- retrieve informations about an ip adress or a hostname 
- This tool is scripted in perl as you can tell    -_-         
- you can help us by subscribing to our youtube channel :. https://goo.gl/83QFyp .:
- before opening the tool use this command  chmod +x ip-locator.pl 
-its nothing special it just provides information from this website 
-http://ip-api.com/ check it out
-th4nks for using our tool
+# IP-Locator fue creado por Z hacker
+# traducido por L4MP 
+Herramienta para recuperar la información sobre una dirección IP o un nombre de host
+esta herramienta está escrita en Perl como se puede decir -_-
+puedes ayudarnos suscribiéndote a nuestro canal de youtube:. https://goo.gl/83QFyp.:
+antes de abrir la herramienta use este comando chmod + x ip-locator.pl
+no es nada especial, solo proporciona información de este sitio web
+http://ip-api.com/ compruébalo
+gracias por usar nuestra herramienta 
+
+# >>>TRADUCTOR<<< nos ayudaria mucho si te unieras a nuestro grupo de facebook >> https://www.facebook.com/groups/494417380954589 <<
+
+en caso de error a causa de modulos no instalados 
+
+sudo apt-get install libwww-mechanize-perl
+
+y en caso de error en modulo JSON 
+ 
+sudo cpan JSON
+
+yes
